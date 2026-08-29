@@ -56,3 +56,5 @@ jobs:
           fi
           git commit -m "chore: import restaurant-manager benchmark"
           git push origin HEAD:main
+
+# bootstrap trigger 2
